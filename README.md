@@ -1,6 +1,6 @@
-# PIGR
+# Interest Driven Graph Structure Learning for Session-based Recommendation
 
-Source code of PIGR/ Interest Driven Graph Structure Learning for Session-based Recommendation
+## Source code of PIGR
 
 Options to reproduce results reported in the paper:
 
